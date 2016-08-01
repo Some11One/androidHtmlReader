@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Html Reader</string>
+
+    <!-- default value for http address -->
+    <string name="editText_http_default" translatable="false">https://www.yandex.ru/</string>
+    <!-- hint for http address -->
+    <string name="editText_hint">Web page URL</string>
+    <!-- text for a 'show html' button -->
+    <string name="button_text">html</string>
+    <!-- toast text if request to a web page failed -->
+    <string name="toast_html_bad_answer">Request failed.\nPlease check URL and internet connection and try again.</string>
+</resources>
